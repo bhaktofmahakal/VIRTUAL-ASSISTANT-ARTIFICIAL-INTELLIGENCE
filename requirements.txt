@@ -1,0 +1,7 @@
+gtts==2.5.4
+pygame==2.6.1
+SpeechRecognition==3.10.0
+requests==2.31.0
+pyautogui==0.9.54
+psutil==5.9.8
+newsapi-python==0.2.7
