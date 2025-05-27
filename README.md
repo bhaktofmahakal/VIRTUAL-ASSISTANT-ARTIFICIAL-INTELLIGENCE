@@ -6,6 +6,9 @@ Jarvis is a fully functional voice-based virtual assistant that now supports **b
 
 ## ✨ Features
 
+### 🔊 Voice Interaction (Bilingual)
+- Complete voice support in both **Hindi and English**
+- Language selection menu for ease of use
 
 ### 📆 Daily Utilities
 - Get the **current time and date**
