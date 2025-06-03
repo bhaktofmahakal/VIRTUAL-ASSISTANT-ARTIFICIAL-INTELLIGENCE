@@ -130,11 +130,13 @@ Want to add more languages, offline mode, or mobile support?
 📬 Contact
 
 📨 Email: utsavmishraa005@gmail.com
+
 🔗 LinkedIn: [Utsav Mishra](https://linkedin.com/in/utsav-mishra1)
 
 📄 License
 
 This project is licensed under the MIT License.
+
 Feel free to use, modify, and share it!
 
 <p align="center">
