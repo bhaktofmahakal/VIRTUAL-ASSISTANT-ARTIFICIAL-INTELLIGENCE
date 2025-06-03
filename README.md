@@ -133,8 +133,15 @@ Want to add more languages, offline mode, or mobile support?
 🔗 LinkedIn: [Utsav Mishra](https://linkedin.com/in/utsav-mishra1)
 
 📄 License
+
 This project is licensed under the MIT License.
 Feel free to use, modify, and share it!
 
-<p align="center"> <strong>#Jarvis #VoiceAssistant #AI #HindiTech #OpenSource #VirtualAssistant #SpeechRecognition</strong> </p> 
+<p align="center">
+  <strong>
+    🔖 #Jarvis &nbsp; | &nbsp; 🧠 #VoiceAssistant &nbsp; | &nbsp; 🤖 #AI <br/>
+    🇮🇳 #HindiTech &nbsp; | &nbsp; 💻 #OpenSource &nbsp; | &nbsp; 🗣️ #SpeechRecognition
+  </strong>
+</p>
+
 
