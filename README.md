@@ -96,6 +96,10 @@
 
 ## 🚀 How to Run
 
+<details>
+<summary>Click to view</summary>
+
+
 ### 🧰 Prerequisites
 - ✅ Python 3.6+
 - ✅ Internet for API + voice services
