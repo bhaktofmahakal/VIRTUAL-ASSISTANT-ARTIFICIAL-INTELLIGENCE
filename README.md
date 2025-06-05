@@ -1,6 +1,6 @@
 <!-- Header Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8+-yellow?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3.6+-yellow?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SpeechRecognition-Enabled-brightgreen?logo=google" alt="SpeechRecognition">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
   <img src="https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows&logoColor=white" alt="Platform">
@@ -122,7 +122,11 @@
     
     # English version:
     python english.py
+---   
 
+</details>
+  
+--- 
 🤝 Contributing
 
     We welcome contributions!
@@ -130,6 +134,8 @@
 Want to add more languages, offline mode, or mobile support?
 
     Just fork, code, and make a PR 🚀
+    
+---
 
 📬 Contact
 
@@ -137,11 +143,15 @@ Want to add more languages, offline mode, or mobile support?
 
 🔗 LinkedIn: [Utsav Mishra](https://linkedin.com/in/utsav-mishra1)
 
+---
+
 📄 License
 
 This project is licensed under the MIT License.
 
 Feel free to use, modify, and share it!
+
+---
 
 <p align="center">
   <strong>
